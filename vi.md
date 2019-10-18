@@ -48,3 +48,11 @@
 | **make**      | _made_           | _made_              | **fabriquer**              |
 | **mean**      | _meant_          | _meant_             | **signifier**              |
 | **meet**      | _met_            | _met_               | **rencontrer**             |
+| **overcome**  | _overcame_       | _overcome_          | **surmonter**              |
+| **pay**       | _paid_           | _paid_              | **payer**                  |
+| **put**       | _put_            | _put_               | **mettre**                 |
+| **read**      | _read_           | _read_              | **mettre**                 |
+| **ring**      | _rang_           | _rung_              | **sonner,téléphoner**      |
+| **run**       | _ran_            | _run_               | **courir**                 |
+| **saw**       | _saw/sawed_      | _sawn/sawed_        | **scier**                  |
+| **say**       | _said_           | _said_              | **dire**                   |
