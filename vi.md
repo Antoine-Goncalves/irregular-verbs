@@ -1,4 +1,32 @@
-| **Infinitif** | **Preterit** | **Participe passe** | **Traduction** |
-| ------------- | ------------ | ------------------- | -------------- |
-| **be** | *was,were* | *been* | **être** |
-
+| **Infinitif** | **Preterit**     | **Participe passe** | **Traduction**          |
+| ------------- | ---------------- | ------------------- | ----------------------- |
+| **be**        | _was,were_       | _been_              | **être**                |
+| **become**    | _became_         | _become_            | **devenir**             |
+| **begin**     | _began_          | _begun_             | **commencer**           |
+| **bet**       | _bet_            | _bet_               | **parier**              |
+| **break**     | _broke_          | _broken_            | **casser**              |
+| **bring**     | _brought_        | _brought_           | **apporter**            |
+| **build**     | _built_          | _built_             | **construire**          |
+| **burn**      | _burnt/burned_   | _burnt/burned_      | **brûler**              |
+| **buy**       | _bought_         | _bought_            | **acheter**             |
+| **can**       | _could_          | _could_             | **pouvoir**             |
+| **choose**    | _chose_          | _chosen_            | **choisir**             |
+| **come**      | _came_           | _come_              | **venir**               |
+| **cost**      | _cost_           | _cost_              | **coûter**              |
+| **cut**       | _cut_            | _cut_               | **couper**              |
+| **do**        | _did_            | _done_              | **faire**               |
+| **draw**      | _drew_           | _drawn_             | **dessiner/tirer**      |
+| **dream**     | _dreamt/dreamed_ | _dreamt/dreamed_    | **rêver**               |
+| **drink**     | _drank_          | _drunk_             | **boire**               |
+| **eat**       | _ate_            | _eaten_             | **manger**              |
+| **fall**      | _fell_           | _fallen_            | **tomber**              |
+| **feed**      | _fed_            | _fed_               | **nourrir**             |
+| **feel**      | _felt_           | _felt_              | **se sentir/ressentir** |
+| **find**      | _found_          | _found_             | **trouver**             |
+| **fly**       | _flew_           | _flown_             | **voler**               |
+| **forbid**    | _forbade_        | _forbidden_         | **interdire**           |
+| **forget**    | _forgot_         | _forgotten/forgot_  | **oublier**             |
+| **forgive**   | _forgave_        | _forgiven_          | **pardonner**           |
+| **freeze**    | _froze_          | _frozen_            | **geler**               |
+| **get**       | _got_            | _gotten/got_        | **obtenir**             |
+| **give**      | _gave_           | _given_             | **donner**              |
