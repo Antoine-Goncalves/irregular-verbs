@@ -56,3 +56,6 @@
 | **run**       | _ran_            | _run_               | **courir**                 |
 | **saw**       | _saw/sawed_      | _sawn/sawed_        | **scier**                  |
 | **say**       | _said_           | _said_              | **dire**                   |
+| **see**       | _saw_            | _seen_              | **voir**                   |
+| **sell**      | _sold_           | _sold_              | **vendre**                 |
+| **send**      | _sent_           | _sent_              | **envoyer**                |
