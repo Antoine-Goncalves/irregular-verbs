@@ -46,3 +46,5 @@
 | **light**     | _lit/lighted_    | _lit/lighted_       | **allumer**                |
 | **lose**      | _lost_           | _lost_              | **perdre**                 |
 | **make**      | _made_           | _made_              | **fabriquer**              |
+| **mean**      | _meant_          | _meant_             | **signifier**              |
+| **meet**      | _met_            | _met_               | **rencontrer**             |
